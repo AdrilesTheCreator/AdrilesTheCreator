@@ -13,7 +13,7 @@
 
 ###
 
-<p align="center">Eu sou Aquiles Daniel, um apaixonado estudante de Engenharia de Software no segundo ano. Atualmente, estou empenhado em aprimorar minhas habilidades de programação, explorando novas tecnologias e contribuindo para projetos emocionantes.</p>
+<p align="center">Um estudante de Engenharia de Software no segundo ano. Atualmente, estou empenhado em aprimorar minhas habilidades de programação, explorando novas tecnologias e contribuindo para projetos.</p>
 
 ###
 
