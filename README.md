@@ -25,7 +25,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://i.pinimg.com/originals/4f/2a/c1/4f2ac1566b1bec845510c944bfd554d5.gif"  />
+  <img height="200" src="https://i.pinimg.com/originals/4f/2a/c1/4f2ac1566b1bec845510c944bfd554d5.gif"  />
 </div>
 
 ###
