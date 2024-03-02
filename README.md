@@ -1,14 +1,3 @@
-<div align="center">
-  <a href="https://www.linkedin.com/in/adriles/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.twitch.tv/adriles_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  </a>
-</div>
-
-###
-
 <h3 align="center">👩‍💻</h3>
 
 ###
@@ -36,7 +25,16 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/4f/2a/c1/4f2ac1566b1bec845510c944bfd554d5.gif"  />
+  <img height="400" src="https://i.pinimg.com/originals/4f/2a/c1/4f2ac1566b1bec845510c944bfd554d5.gif"  />
 </div>
 
 ###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/adriles/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.twitch.tv/adriles_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  </a>
+</div>
