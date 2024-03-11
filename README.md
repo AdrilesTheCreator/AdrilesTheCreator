@@ -1,8 +1,14 @@
 <h3 align="center">👩‍💻</h3>
 
+###
+
 <p align="center">Um estudante de Engenharia de Software no segundo ano. Atualmente, estou empenhado em aprimorar minhas habilidades de programação, explorando novas tecnologias e contribuindo para projetos.</p>
 
+###
+
 <h3 align="center">🐱‍👤</h3>
+
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -16,9 +22,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
+###
+
 <div align="center">
   <img height="200" src="https://i.pinimg.com/originals/4f/2a/c1/4f2ac1566b1bec845510c944bfd554d5.gif"  />
 </div>
+
+###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/adriles/" target="_blank">
@@ -28,3 +38,5 @@
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
   </a>
 </div>
+
+###
