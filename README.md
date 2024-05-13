@@ -1,31 +1,16 @@
-<h3 align="center">👩‍💻</h3>
+# Bem-vindo ao meu perfil do GitHub! <img src="wave.gif" width="30px" height="30px" />
+
+<p align="center"> 👩‍💻 Sou um estudante de Engenharia de Software no segundo ano. Busco constantemente aprimorar meus conhecimentos em programação e desenvolvimento de software. Meus repositórios refletem essa jornada de aprendizado, explorando diferentes linguagens e tecnologias. [Meu Linkedin](https://www.linkedin.com/in/adriles/)</p>
 
 ###
 
-<p align="center">Um estudante de Engenharia de Software no segundo ano. Atualmente, estou empenhado em aprimorar minhas habilidades de programação, explorando novas tecnologias e contribuindo para projetos.</p>
-
-###
-
-<h3 align="center">🐱‍👤</h3>
-
-###
+## linguagens que tenho conhecimento 🐱‍💻
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,java,js" />
   </a>
 </p>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/adriles/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.twitch.tv/adriles_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  </a>
-</div>
 
 ###
 
