@@ -10,14 +10,14 @@
 
 <p>
   <samp>
-    <a href="">for coming</a>
+    <a href="">project under development</a>
   </samp>
 </p>
 
 <p>
   <samp>
     [<a href="mailto:aquilesvdaniel@gmail.com">e-mail</a>]
-    [<a href="https://steamcommunity.com/id/adriles">steam</a>]
+    [<a href="https://www.linkedin.com/in/adriles/">linkedin</a>]
   </samp>
 </p>
 
@@ -25,43 +25,43 @@
 
 <samp># about</samp>
 
-<samp>software engineering student - future back end developer - radiant player</samp>
+<samp>software engineering student - future full stack developer - radiant player</samp>
 
 <br>
 
-<img height="100" src="https://i.pinimg.com/originals/4f/2a/c1/4f2ac1566b1bec845510c944bfd554d5.gif">
+<img height="150" src="https://i.pinimg.com/originals/4f/2a/c1/4f2ac1566b1bec845510c944bfd554d5.gif">
 
 </div>
 
 <h2></h2>
 
+<div align="center">
+  <samp>My Skills</samp>
+</div>
+
 <br>
 
-```java
-import java.util.*;
+<div align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
+</div>
 
-public class Aquiles {
-  public static void main(String[] args) {
-    Map<String, String> aquiles = new HashMap<>();
+<br>
 
-    aquiles.put("Reading", "Clean Code");
-    aquiles.put("Education", "Software engineering student");
-    aquiles.put("Main Languages", "C, Java, JavaScript");
-    aquiles.put("Age", "20 years");
-    }
-}
-```
+<div align="center">
+  <samp>More</samp>
+</div>
 
-<details>
-  <summary>Github Stats</summary>
-    <div>
-      <img src="https://simple-github-stats.vercel.app/?user=AdrilesTheCreator"/>
-    </div>
-</details>
+<br>
 
-<details>
-  <summary>Contacts</summary>
-    <div> 
-      <a href="https://www.linkedin.com/in/adriles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    </div>
-</details>
+<div align="center">
+  <a href="https://tracker.gg/valorant/profile/riot/overwhelmed%23red/overview"><img src="https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white"></a>
+  <a href="https://steamcommunity.com/id/adriles"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+</div>
