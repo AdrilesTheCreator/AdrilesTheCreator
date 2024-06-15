@@ -10,11 +10,7 @@
 
 <samp>software engineering student - future full stack developer - radiant player</samp>
 
-<br>
-
 <img height="200" src="https://i.pinimg.com/originals/4f/2a/c1/4f2ac1566b1bec845510c944bfd554d5.gif">
-
-<br>
 
 <samp># contact</samp>
 
