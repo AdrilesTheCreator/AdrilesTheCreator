@@ -19,8 +19,6 @@
 [![Twitch Badge](https://img.shields.io/badge/-twitch-292D3E?style=flat-square&logo=Twitch&logoColor=white&link=https://twitter.com/pinuyadev)](https://www.twitch.tv/adriles_)
 [![Instagram Badge](https://img.shields.io/badge/-instagram-292D3E?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/tifsnx/)](https://www.instagram.com/adriles_/)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrilesTheCreator&hide_progress=true&theme=shadow_green"/>
-
 </div>
 
 <h2></h2>
