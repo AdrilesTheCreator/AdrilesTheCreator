@@ -8,7 +8,7 @@
 
 <samp># about</samp>
 
-<samp>software engineering student - future full stack developer - radiant player</samp>
+<samp>software engineering student</samp>
 
 <img height="200" src="https://i.pinimg.com/originals/4f/2a/c1/4f2ac1566b1bec845510c944bfd554d5.gif">
 
@@ -18,6 +18,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-email-292D3E?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pinuyadeveloper@gmail.com)](mailto:aquilesvdaniel@gmail.com)
 [![Twitch Badge](https://img.shields.io/badge/-twitch-292D3E?style=flat-square&logo=Twitch&logoColor=white&link=https://twitter.com/pinuyadev)](https://www.twitch.tv/adriles_)
 [![Instagram Badge](https://img.shields.io/badge/-instagram-292D3E?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/tifsnx/)](https://www.instagram.com/adriles_/)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrilesTheCreator&hide_progress=true&theme=shadow_green"/>
 
 </div>
 
